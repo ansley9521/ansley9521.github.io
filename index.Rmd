@@ -1,5 +1,5 @@
 ---
-title: "Ansley Bender"{r, echo=FALSE, results='hide'}
+title: "Personal Website"
 ---
 <script>
    $(document).ready(function() {
