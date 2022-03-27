@@ -7,7 +7,7 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
-    - text: "Clinical Backgroun"
+    - text: "Clinical Background"
       href: Clinical.html      
     - text: "Research"
       href: Research.html      
