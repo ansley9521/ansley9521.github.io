@@ -7,6 +7,10 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Clinical Backgroun"
+      href: Clinical.html      
+    - text: "Research"
+      href: Research.html      
 output:
   html_document:
     theme: flatly
