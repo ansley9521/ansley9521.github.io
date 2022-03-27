@@ -2,4 +2,10 @@
 title: "About Me"
 ---
 
-Why I am awesome. 
+- __Name:__ Ansley M. Bender
+- __Ocupation:__ Doctoral Candidate in Clinical Psychology
+- __Clinical Interests:__ Trauma, Emotional Difficulties, Suicide/Self-Harm, Mood, Anxiety, Relationships, Stress
+- __Research Interests:__ Suicide Prevention and Intervention, Perfectionism, Cognitive Appraisals
+
+![](Headshot.jpeg)
+
