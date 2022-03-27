@@ -1,5 +1,5 @@
 ---
-title: "Ansley Bender"
+title: "Ansley Bender"{r, echo=FALSE, results='hide'}
 ---
 <script>
    $(document).ready(function() {
@@ -10,4 +10,4 @@ title: "Ansley Bender"
 
 ## Hello and Welcome. 
 
-My name is Ansley Bender and I am so glad you are visiting my website. I am currently a doctoral candidate in clinical psychology at the [University of South Florida](https://www.usf.edu/arts-sciences/departments/psychology/).
+My name is Ansley Bender and I am so glad you are visiting my website. I am a doctoral candidate in clinical psychology at the [University of South Florida](https://www.usf.edu/arts-sciences/departments/psychology/).
