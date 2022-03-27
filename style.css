@@ -23,6 +23,7 @@ h1 { /* Header 1 */
 }
 h2 { /* Header 2 */
     font-size: 22px;
+    color: DarkBlue;
     font-family: "Times New Roman", Times, serif;
 }
 h3 { /* Header 3 */
