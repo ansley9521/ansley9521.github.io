@@ -15,11 +15,12 @@ body{
 h1.title {
   font-size: 38px;
   font-family: "Times New Roman", Times, serif;
-  color: #9C92B0;
+  color: slateblue3;
 }
 h1 { /* Header 1 */
   font-size: 28px;
   font-family: "Times New Roman", Times, serif;
+  color: palegreen4;
 }
 h2 { /* Header 2 */
     font-size: 22px;
