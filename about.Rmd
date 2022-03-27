@@ -7,5 +7,5 @@ title: "About Me"
 - __Clinical Interests:__ Trauma, Emotional Difficulties, Suicide/Self-Harm, Mood, Anxiety, Relationships, Stress
 - __Research Interests:__ Suicide Prevention and Intervention, Perfectionism, Cognitive Appraisals
 
-![](Headshot.jpeg)
+
 
