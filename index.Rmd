@@ -7,7 +7,6 @@ title: "Personal Website"
      $head.prepend('<img src=\"Headshot.jpeg\" style=\"float: right;width: 300px;\"/>')
    });
 </script>
-
 <br>
 
 # Hello and Welcome. 

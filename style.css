@@ -15,16 +15,13 @@ body{
 h1.title {
   font-size: 38px;
   font-family: "Times New Roman", Times, serif;
-  color: darkgreen;
 }
 h1 { /* Header 1 */
   font-size: 28px;
   font-family: "Times New Roman", Times, serif;
-  color: purple;
 }
 h2 { /* Header 2 */
     font-size: 22px;
-    color: DarkBlue;
     font-family: "Times New Roman", Times, serif;
 }
 h3 { /* Header 3 */
