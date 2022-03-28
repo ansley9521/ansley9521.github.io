@@ -15,4 +15,4 @@ title: "Personal Website"
 My name is Ansley Bender and I am so glad you are visiting my website. I am a doctoral candidate in clinical psychology at the [University of South Florida](https://www.usf.edu/arts-sciences/departments/psychology/).
 <br>
 <br>
-You can use this website to learn more about my [basic information](file:///Users/ansleybender/Documents/GitHub/ansley9521.github.io/about.html), [clinical interests](file:///Users/ansleybender/Documents/GitHub/ansley9521.github.io/Clinical.html), and [research experience](file:///Users/ansleybender/Documents/GitHub/ansley9521.github.io/Research.html)!
+You can use this website to learn more about my [basic information](https://ansley9521.github.io/about.html), [clinical interests](https://ansley9521.github.io/Clinical.html), and [research experience](https://ansley9521.github.io/Research.html)!

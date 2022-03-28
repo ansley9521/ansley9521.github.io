@@ -1,11 +1,14 @@
 ---
 title: "Research Interests"
 ---
-
+<br>
+<br>
 I'm passionate about improving suicide risk assessment and intervention. I research individual characteristics that may affect one's vulnerability or resilience in the face of negative life events, stressors, or other triggers.  In particular, I am interested in understanding how *perfectionism* may affect responses to certain negative life events, and how this might contribute to poorer mental health outcomes —-- up to and including suicide risk. Relatedly, I evaluate how we can best train mental health professionals to help clients at risk of suicide cope with negative life events. 
 <br>
-<br>
+<br> 
+
 # Academic Works
+
 * Doctoral Dissertation
   + *An Experimental Study of Negative Performance Feedback: Consideration of a Cognitive Pathway and Individual Difference Factors* University of South Florida, 2021
 * Master's Thesis
