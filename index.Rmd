@@ -1,5 +1,5 @@
 ---
-title: "Hello and Welcome"
+title: "Hello and Welcome."
 ---
 <script>
    $(document).ready(function() {
