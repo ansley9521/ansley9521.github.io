@@ -10,17 +10,17 @@ title: "About Me"
 </script>
 <br>
 
-- __Name:__ Ansley M. Bender, M.A.
-- __Ocupation:__ Doctoral Candidate in Clinical Psychology at the University of South Florida
-- __Clinical Interests:__ Trauma, Emotional Difficulties, Suicide/Self-Harm, Mood, Anxiety, Relationships, Stress
-- __Research Interests:__ Suicide Prevention and Intervention, Perfectionism, Cognitive Appraisals
-- __Professional Skills:__ 
+* **Name:** Ansley M. Bender, M.A.
+* **Occupation:** Doctoral Candidate in Clinical Psychology at the University of South Florida
+* **Clinical Interests:** Trauma, Emotional Difficulties, Suicide/Self-Harm, Mood, Anxiety, Relationships, Stress
+* **Research Interests:** Suicide Prevention and Intervention, Perfectionism, Cognitive Appraisals
+* **Professional Skills:** 
  + R, R Markdown
  + Github
  + SPSS
  + Data Analysis and Visualization (Regression, ANOVA, Multivariate Statistics, Meta-Analysis, Psychometrics, Path Analysis)
  + Program Evaluation
-- __Fun Facts:__ 
+* **Fun Facts:** 
  + I did my undergrad at KU (Rock Chalk!)
  + I ran my first marathon this year
  + I have minors in Human Sexuality, Social and Behavioral Sciences Methodology, and Women's Studies
