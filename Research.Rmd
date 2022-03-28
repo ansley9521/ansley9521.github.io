@@ -4,7 +4,7 @@ title: "Research"
 
 <br>
 
-I'm passionate about improving suicide risk assessment and intervention. I research individual characteristics that may affect one's vulnerability or resilience in the face of negative life events, stressors, or other triggers.  In particular, I am interested in understanding how *perfectionism* may affect responses to certain negative life events, and how this might contribute to poorer mental health outcomes —-- up to and including suicide risk. Relatedly, I evaluate how we can best train mental health professionals to help clients at risk of suicide cope with negative life events. 
+I'm passionate about improving suicide risk assessment and intervention. I research individual characteristics that may affect one's vulnerability or resilience in the face of negative life events and stressors.  In particular, I am interested in understanding how *perfectionism* may affect responses to certain negative life events, and how this might contribute to poorer mental health outcomes —-- up to and including suicide risk. Relatedly, I evaluate how we can best train mental health professionals to help clients at risk of suicide cope with negative life events. 
 
 <br>
 
@@ -16,6 +16,8 @@ I'm passionate about improving suicide risk assessment and intervention. I resea
   + *Perfectionism, Negative Life Events, and Cognitive Appraisal: A Contextual Model of Perfectionism’s Maladaptive Nature,* University of South Florida, 2020
 * **Honors Thesis**
   + *Connecting Attachment Style to Resilience: Contributions of Self-Care and Self-Efficacy,* University of Kansas, 2017
+
+<br>
 
 # Peer-Reviewed Publications
 
