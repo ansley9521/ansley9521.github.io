@@ -4,7 +4,7 @@ title: "Research"
 
 <br>
 
-I'm passionate about improving suicide risk assessment and intervention. I research individual characteristics that may affect one's vulnerability or resilience in the face of negative life events and stressors.  In particular, I am interested in understanding how *perfectionism* may affect responses to certain negative life events, and how this might contribute to poorer mental health outcomes —-- up to and including suicide risk. Relatedly, I evaluate how we can best train mental health professionals to help clients at risk of suicide cope with negative life events. 
+I'm passionate about improving suicide risk assessment and intervention. I research individual characteristics that may affect one's vulnerability or resilience in the face of negative life events and stressors.  In particular, I am interested in understanding how *perfectionism* may affect responses to certain negative life events, and how this might contribute to poorer mental health outcomes —-- up to and including suicide risk. Relatedly, I evaluate how we can best train mental health professionals to help clients at risk of suicide cope with negative life events. As part of this research, I have assisted in writing and preparing grants submitted to SAMHSA and NIMH. 
 
 <br>
 
@@ -20,8 +20,6 @@ I'm passionate about improving suicide risk assessment and intervention. I resea
 <br>
 
 # Peer-Reviewed Publications
-
-<br>
 
 * Schuck, A., Gryglewicz, K., **Bender, A.**, Nam, E., McNeill, M., Rosler, M., Cosare, M., & Karver, M. (In Press). Examining the effectiveness of a family-focused training to prevent youth suicide. *Family Relations*.
 
