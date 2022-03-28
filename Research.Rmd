@@ -4,7 +4,7 @@ title: "Research"
 
 <br>
 
-I'm passionate about improving suicide risk assessment and intervention. I research individual characteristics that may affect one's vulnerability or resilience in the face of negative life events.  In particular, I am interested in understanding how *perfectionism* may affect responses to certain negative life events, and how this might contribute to poorer mental health outcomes —-- up to and including suicide risk. Relatedly, I evaluate how we can best train mental health professionals to help clients at risk of suicide cope with negative life events. As part of this research, I have assisted in writing and preparing grants submitted to SAMHSA and NIMH, and have conducted data analyses and write-ups for quarterly, annual, and final grant reports. 
+I am passionate about improving suicide risk assessment and intervention. I research individual characteristics that may affect one's vulnerability or resilience in the face of negative life events.  In particular, I am interested in understanding how *perfectionism* may affect responses to certain negative life events, and how this might contribute to poorer mental health outcomes —-- up to and including suicide risk. Relatedly, I evaluate how we can best train mental health professionals to help clients at risk of suicide cope with negative life events. As part of this research, I have assisted in writing and preparing grants submitted to SAMHSA and NIMH, and have conducted data analyses and write-ups for quarterly, annual, and final grant reports. 
 
 <br>
 
@@ -23,7 +23,7 @@ I'm passionate about improving suicide risk assessment and intervention. I resea
 
 * Schuck, A., Gryglewicz, K., **Bender, A.**, Nam, E., McNeill, M., Rosler, M., Cosare, M., & Karver, M. (In Press). Examining the effectiveness of a family-focused training to prevent youth suicide. *Family Relations*.
 
-* **Bender, A.**, Peterson, A., Schuck, A., & Karver, M. (2021). Perfectionism, Negative Life Events, and Cognitive Appraisal: A Contextual Model of Perfectionism’s Maladaptive Nature. *Journal of Rational-Emotive & Cognitive-Behavior Therapy*, 1-20.
+* **Bender, A.**, Peterson, A., Schuck, A., & Karver, M. (2021). [Perfectionism, Negative Life Events, and Cognitive Appraisal: A Contextual Model of Perfectionism’s Maladaptive Nature](https://link.springer.com/content/pdf/10.1007/s10942-021-00437-9.pdf). *Journal of Rational-Emotive & Cognitive-Behavior Therapy*, 1-20.
 
 * Gleason, L., **Bender, A.**, Chen, J., Bozzay, M., Brown-Hangartner, R., Romero, G., Labouliere, C., Elzy, M., Gryglewicz, K., & Karver, M., (2021). Under the Surface: The Role of Covert Cues in Peer Suicide Risk Referrals. *School Mental Health*, 1-11. 
 
