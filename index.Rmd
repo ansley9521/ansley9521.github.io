@@ -1,5 +1,5 @@
 ---
-title: "Personal Website"
+title: "Hello and Welcome"
 ---
 <script>
    $(document).ready(function() {
@@ -7,11 +7,7 @@ title: "Personal Website"
      $head.prepend('<img src=\"Headshot.jpeg\" style=\"float: right;width: 300px;\"/>')
    });
 </script>
-<br>
 
-# Hello and Welcome. 
-
-<br>
 My name is Ansley Bender and I am so glad you are visiting my website. I am a doctoral candidate in clinical psychology at the [University of South Florida](https://www.usf.edu/arts-sciences/departments/psychology/).
 <br>
 <br>
