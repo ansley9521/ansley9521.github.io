@@ -10,14 +10,16 @@ I'm passionate about improving suicide risk assessment and intervention. I resea
 
 # Academic Works
 
-* Doctoral Dissertation
-  + *An Experimental Study of Negative Performance Feedback: Consideration of a Cognitive Pathway and Individual Difference Factors* University of South Florida, 2021
-* Master's Thesis
-  + *Perfectionism, Negative Life Events, and Cognitive Appraisal: A Contextual Model of Perfectionism’s Maladaptive Nature* University of South Florida, 2020
-* Honors Thesis
-  + *Connecting Attachment Style to Resilience: Contributions of Self-Care and Self-Efficacy* University of Kansas, 2017
+* **Doctoral Dissertation**
+  + *An Experimental Study of Negative Performance Feedback: Consideration of a Cognitive Pathway and Individual Difference Factors,* University of South Florida, 2021
+* **Master's Thesis**
+  + *Perfectionism, Negative Life Events, and Cognitive Appraisal: A Contextual Model of Perfectionism’s Maladaptive Nature,* University of South Florida, 2020
+* **Honors Thesis**
+  + *Connecting Attachment Style to Resilience: Contributions of Self-Care and Self-Efficacy,* University of Kansas, 2017
 
 # Peer-Reviewed Publications
+
+<br>
 
 * Schuck, A., Gryglewicz, K., **Bender, A.**, Nam, E., McNeill, M., Rosler, M., Cosare, M., & Karver, M. (In Press). Examining the effectiveness of a family-focused training to prevent youth suicide. *Family Relations*.
 
